@@ -12,5 +12,5 @@
 |9|Vasylenko, A. et al. Element selection for crystalline inorganic solid discovery guided by unsupervised machine learning of experimentally explored chemistry. Nat Commun 12, 5561 (2021).|https://github.com/lrcfmd/PhaseFieldRanking.git|조사 중|
 |10|Banko, L., Maffettone, P. M., Naujoks, D., Olds, D. & Ludwig, A. Deep learning for visualization and novelty detection in large X-ray diffraction datasets. npj Comput Mater 7, 1–6 (2021).|https://github.com/maffettone/xca.git|조사 중|
 |11|Lee, J.-W., Park, W. B., Lee, J. H., Singh, S. P. & Sohn, K.-S. A deep-learning technique for phase identification in multiphase inorganic compounds using synthetic XRD powder patterns. Nat Commun 11, 86 (2020).|-|-|
-|12|Kaufmann, K. et al. Crystal symmetry determination in electron diffraction using machine learning. Science 367, 564–568 (2020).|-|
+|12|Kaufmann, K. et al. Crystal symmetry determination in electron diffraction using machine learning. Science 367, 564–568 (2020).|-|-|
 |13|Ziletti, A., Kumar, D., Scheffler, M. & Ghiringhelli, L. M. Insightful classification of crystal structures using deep learning. Nat Commun 9, 2775 (2018).|https://github.com/keras-team/keras.git|조사 중|
